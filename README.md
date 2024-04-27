@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python 3 and Data Scientist Machine Learning 
 - 💞️ I’m looking to collaborate on any project that help me to brushing up on my coding skills 
 - 📫 carlos10.mendez10@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: him/his
 - ⚡ Fun fact: My parents dropped me when I was a child 
 
 <!---
